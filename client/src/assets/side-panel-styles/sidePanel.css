@@ -1,0 +1,12 @@
+.myList:hover {
+  color: white !important;
+  background-color: #263238;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+/* 
+.myList {
+  background-color: #eceff1;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+} */

@@ -1,0 +1,5 @@
+.form-control,
+label,
+button {
+  font-size: smaller !important;
+}

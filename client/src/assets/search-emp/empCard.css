@@ -1,0 +1,19 @@
+.myCard {
+  width: 250px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  padding: 15px;
+
+  word-break: break-word !important;
+  transform: scale(1);
+  /* box-shadow: 0px 0px 10px rgb(187, 187, 187); */
+  transition: transform 0.2s, box-shadow 0.3s !important;
+  border-radius: 10px;
+  border: rgb(238, 238, 238) solid 1px;
+}
+.myCard:hover {
+  transform: scale(1.01);
+  z-index: 1;
+  box-shadow: 0px 0px 20px rgb(119, 119, 119) !important;
+}

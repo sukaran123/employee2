@@ -1,0 +1,17 @@
+.leaveReqCard {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border: rgb(216, 216, 216) solid 1px;
+  width: 340px;
+  /* word-wrap: break-word; */
+}
+
+.reasonContainer {
+  background-color: rgb(224, 224, 224);
+  border-radius: 3px;
+  padding: 10px;
+  margin: 10px 0 10px 0;
+  height: 80px;
+  overflow-y: scroll;
+}

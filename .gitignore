@@ -1,0 +1,10 @@
+/client/node_modules
+/node_modules
+/.env
+/public/*
+!/public/.gitkeep
+
+client/.pnp
+client/coverage
+client/build
+client/.eslintcache
